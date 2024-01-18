@@ -106,3 +106,8 @@ button{
     position: relative;
     top:60px;
 }
+@media(max-width:350px min-width:300px){
+    .centerbox{
+        width:90%;
+    }
+}
